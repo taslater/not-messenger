@@ -37,6 +37,7 @@ Temporary Items
 
 ### VisualStudioCode ###
 vscode
+.vscode/settings.json
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -62,3 +63,5 @@ vscode
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
+
+.vscode/settings.json
